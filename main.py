@@ -1,6 +1,3 @@
-#!/usr/bin/python
-
-
 APP_NAME = "Quote Printer"
 
 
